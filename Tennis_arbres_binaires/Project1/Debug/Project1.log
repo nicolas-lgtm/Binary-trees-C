@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dicos\Desktop\Cours\ARCHIVES\F2\C\Arbres binaires\TP\Tennis_arbres_binaires\Project1\Source.cpp(3,13): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\dicos\Desktop\Cours\ARCHIVES\F2\C\Arbres binaires\TP\Tennis_arbres_binaires\Project1\Source.cpp(4,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\dicos\Desktop\Cours\ARCHIVES\F2\C\Arbres binaires\TP\Tennis_arbres_binaires\Project1\Source.cpp(14,23): warning C4018: '<' : incompatibilité signed/unsigned
+  Project1.vcxproj -> C:\Users\dicos\Desktop\Cours\ARCHIVES\F2\C\Arbres binaires\TP\Tennis_arbres_binaires\Debug\Project1.exe
